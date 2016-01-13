@@ -1,0 +1,8 @@
+#python dependencies
+numpy
+pandas
+seaborn
+sklearn
+matplotlib
+geopy
+time
